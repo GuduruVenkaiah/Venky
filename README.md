@@ -1,2 +1,2 @@
 # Venky
-Just for learning git
+Just for learning git and github
